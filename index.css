@@ -181,3 +181,13 @@ ul {
 .action-text{
   color: white;
 }
+
+.footer{
+  height: 72px;
+  background-color: #1F2937;
+  color: #E5E7EB;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 64px;
+}
